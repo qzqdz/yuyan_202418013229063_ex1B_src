@@ -1,0 +1,8 @@
+http://192.168.221.1:8000/ 
+directory tree
+|____WWW2025_AVATAR.pdf 15.32M
+|____WWW2025_AVATAR.rar 6.58M
+
+File Path	File Size	File Modify Time
+file_path/WWW2025_AVATAR.pdf	15.32M	2024-10-18 18:56:14	
+file_path/WWW2025_AVATAR.rar	6.58M	2024-11-05 17:50:43	
